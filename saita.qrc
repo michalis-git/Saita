@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/effects/bonus.wav</file>
+        <file>audio/effects/bullet.wav</file>
+        <file>audio/effects/lost.wav</file>
+        <file>audio/effects/night.wav</file>
+        <file>audio/effects/stagetap.wav</file>
+        <file>audio/effects/tap.wav</file>
+        <file>audio/effects/stealth.wav</file>
+        <file>audio/effects/applyspecialeffect.wav</file>
+        <file>qiap/background/startup_bcakground.png</file>
+        <file>qiap/background/blue.jpg</file>
+        <file>qiap/background/loading.png</file>
+        <file>audio/effects/scissors.wav</file>
+        <file>audio/effects/bounce.wav</file>
+        <file>audio/effects/lampcrash.wav</file>
+        <file>audio/effects/lampsqueek.wav</file>
+        <file>audio/effects/slowdown.wav</file>
+    </qresource>
+</RCC>

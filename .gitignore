@@ -1,0 +1,100 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*~
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+#*.so
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+.qmake.cache
+tags
+.DS_Store
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# qtcreator generated files
+*.pro.user
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# symbian
+*.pkg
+*.loc
+*.sis
+*.rss
+*.mk
+*.rc
+*.mmp
+*.inf
+*.cache
+*.BAT
+
+# Directories to ignore
+# ---------------------
+
+debug
+release
+tmp
+
+# Binaries
+# --------
+*.dll
+*.bin
+
+# Symbian
+# ----------
+*.db
+*.*pre1
+*.zip
+*.2pre5
+# Debian packaging
+# -----------------
+qtc_packaging/*
+# custom
+#shoppingassistant
+android
+
+qmakepluginstubs
+
+*.deb
+*.changes
+
+*.pro.*
+*stamp
+*saita2
+*.aegis
+*saita2adfree*

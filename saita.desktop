@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=saita2
+Exec=/usr/bin/invoker --type=e --single-instance --splash=/opt/saita2/qml/arcade_harmattan_adfree/assets/images/saita_splash.png /opt/saita2/bin/saita2
+Icon=/opt/saita2/qml/arcade_harmattan_adfree/assets/images/saita_logo.svg
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

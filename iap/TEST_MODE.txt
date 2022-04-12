@@ -1,0 +1,7 @@
+[testserver]
+testMode=purchase
+[simulation]
+511309=simulated_ok
+100000=simulated_payment_declined
+100002=simulated_payment_declined
+default=simulated_ok

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<classes>
+    <class name="Basic" description="2+2 = ?" lockedstate="1" levelcount="15" badges="0" filename="basic.xml" />
+    <class name="Advanced" description="2+2 = ?" lockedstate="1" levelcount="15" badges="0" filename="advanced.xml" />
+    <class name="Expert" description="#######" lockedstate="0" levelcount="15" badges="0" filename="expert.xml" />
+</classes>
